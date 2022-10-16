@@ -1,0 +1,7 @@
+name: "exoterus-mod"
+displayName: "Exoterus"
+author: "exxleo#9345"
+description: "none"
+main: "."
+version: 1.0
+minGameVersion: 128.1
