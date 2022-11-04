@@ -1,7 +1,8 @@
 name: "exoterus-mod"
 displayName: "Exoterus"
 author: "exxleo#9345"
-description: "none"
-main: "."
+description: "A simple mod for Mindistry V7, nothing interesting. MOD IS NOT CREATED YET, sorry for bad English. bruh."
 version: 1.0
-minGameVersion: 128.1
+minGameVersion: 136
+
+

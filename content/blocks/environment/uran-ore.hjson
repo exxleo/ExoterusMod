@@ -1,0 +1,4 @@
+type: OreBlock,
+wallOre: true,
+itemDrop: uran,
+variants: 2

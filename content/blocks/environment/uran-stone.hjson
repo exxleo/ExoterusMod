@@ -1,0 +1,4 @@
+type: floor,
+name: Uran floor,
+variants: 4,
+wall: uran-wall

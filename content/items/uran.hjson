@@ -1,0 +1,7 @@
+type: material
+name: Uranium
+description: Радиоактивная руда.
+hardness: 4
+cost: 2
+color: 284F78FF
+research: carbide
